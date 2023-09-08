@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@myno_21/pinterest-scraper": "^1.0.4",
+    "express": "^4.18.2"
+  },
+  "name": "pinterest-api",
+  "version": "1.0.0",
+  "description": "idk bruhh",
+  "main": "index.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "pinterest-api"
+  ],
+  "author": "ztrdiamond",
+  "license": "ISC"
+}
