@@ -14,7 +14,7 @@ app.get('/', async (req, res) => {
     const result = JSON.stringify({
        status: 200,
        error: "none",
-       result: [pins]
+       result: pins
     }, null, 2);
     res.send(result);
   } catch (error) {
